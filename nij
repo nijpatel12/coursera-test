@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my first project</title>
+</head>
+<body>
+    <p>this is my first project</p>
+    <h1>what will you wish to open?:</h1>
+    <h2><a href="https://www.instagram.com/"><img src="/Instagram.png"height="20">instagram</a></h2>
+    <h2><a href="https://www.youtube.com/"><img src="/youtube.jpg"height="20">YouTube</a></h2>
+    <h2><a href="https://www.google.co.in/"><img src="/Google.png"height="20">Google</a></h2>
+</body>
+</html>
